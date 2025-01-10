@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhriti
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python, js and cyber security .
-- 💞️ I’m looking to collaborate on problem solving python or js based issues.
+- 🌱 I’m currently learning DSA, web development and cyber security .
+- 💞️ I’m looking to collaborate on problem solving c++ or web dev based issues.
 - 📫 Reach me through my instagram https://instagram.com/unpredictable_soul_03?igshid=MzMyNGUyNmU2YQ==
 
 <!---
